@@ -1,6 +1,7 @@
 
 ### **`Olá, sou`** 
-## **`Daniel Penelva`** 
+## **`Daniel Penelva`**
+<h3>Sou um codificador entusiasmado, movido por uma paixão inabalável por programação. Com uma forte dedicação ao domínio de novas tecnologias e à resolução de problemas complexos.</h3>
 
 ---
 
@@ -20,13 +21,13 @@
   
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
 ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png" width="48" height="48">
+<img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" width="48" height="48">
 ![Thymeleaf](https://img.icons8.com/color/48/000000/thymeleaf.png)
 <img src="https://cdn-icons-png.flaticon.com/512/29/29540.png" width="48" height="48">
 <img src="https://github.com/Daniel-Penelva/Daniel-Penelva/assets/113154454/3dce6b26-e25a-4e87-bde1-2d74c42c607a" width="48" height="48">
-<img src="https://static.javatpoint.com/primefaces/images/primefaces-tutorial.png" width="48" height="48">
+<img src="https://ia904503.us.archive.org/5/items/github.com-primefaces-primeng_-_2021-09-01_10-34-24/cover.jpg" width="48" height="48">
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="48" height="48">
-<img src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" width="48" height="48">
+<img src="https://blog.elo7.dev/images/cover/testes-de-codigo-com-mockito.png" width="48" height="48">
 
 </div>
 
