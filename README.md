@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+sou+Daniel+Penelva+%F0%9F%91%8B;Desenvolvedor+de+Software;Apaixonado+por+aprender+e+construir!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+sou+Daniel+Penelva+%F0%9F%91%8B;Desenvolvedor+de+Software;Sempre+aprendendo+e+aplicando+boas+pr%C3%A1ticas.)](https://git.io/typing-svg)
 
 </div>
 
