@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+sou+Daniel+Penelva+%F0%9F%91%8B;Desenvolvedor+Java+%2B+Spring+Boot;Buscando+minha+primeira+oportunidade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+sou+Daniel+Penelva+%F0%9F%91%8B;Desenvolvedor+de+Software;Apaixonado+por+aprender+e+construir!)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,8 +9,6 @@
 Desenvolvedor com foco em **Java Backend**, com experiência prática em projetos Full Stack utilizando **Java, Spring Boot, Angular e MySQL**. Tenho facilidade com APIs REST, autenticação JWT, modelagem de banco de dados e integração frontend-backend.
 
 Formado em **Tecnologia em Sistemas para Internet** pelo CEFET/RJ e pós-graduado em **Segurança da Informação** pela Estácio/RJ.
-
-Atualmente aprofundando conhecimentos em **Spring Data JPA, Hibernate e Kotlin**, e em busca da minha **primeira oportunidade profissional** como desenvolvedor Júnior.
 
 📍 Rio de Janeiro, RJ &nbsp;|&nbsp; 📬 d4n.andrade@gmail.com
 
